@@ -1,4 +1,4 @@
-#linked List
+# linked list
 
 Java Projekt
 
