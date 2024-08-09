@@ -1,4 +1,4 @@
-# verketteteliste
+#linked List
 
 Java Projekt
 
